@@ -11,4 +11,5 @@ runtime! config/**/*.vim
 
 let g:NERDTreeDirArrowExpandable = '▸'
 let g:NERDTreeDirArrowCollapsible = '▾'
-colorscheme vividchalk
+" colorscheme vividchalk
+set showcmd
